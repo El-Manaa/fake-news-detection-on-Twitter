@@ -1,4 +1,4 @@
-# fake_news_det
+# Fake news detection on Twitter social media platform
 A graduation project about detecting Fake News on the Twitter Platform.
 
 The application consists of seven files:
