@@ -26,5 +26,7 @@ The application consists of seven files:
 7) tfidf_vect.pkl:
     is a TFIDF transformer used for the conversion of a sentence to a numerical vector.
 
+To run this project, you need to run the file Application.py
+
 
 I hope this helps to clarify my Project. It is the first time that I upload an official Project for myself.
