@@ -1,10 +1,10 @@
 # Fake news detection on Twitter social media platform
-A graduation project about detecting Fake News on the Twitter Platform.
+A graduation project about detecting Fake News on the X Platform (formally Twitter).
 
 The application consists of seven files:
 
 1) Dotenv file:
-    contains the Twitter Bot account's tokens and the ElephantSQL (PostgreSQL as a Service) API tokens.
+    contains the Twitter/X Bot account's tokens and the ElephantSQL (PostgreSQL as a Service) API tokens.
     Here is the Twitter Bot account: https://twitter.com/ManaaBot
 
 2) Application.py: 
