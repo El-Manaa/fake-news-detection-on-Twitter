@@ -26,7 +26,7 @@ The application consists of seven files:
 7) tfidf_vect.pkl:
     is a TFIDF transformer used for the conversion of a sentence to a numerical vector.
 
-To run this project, you need to run the file Application.py and then on (Twitter / X), mention the bot using its name tag "@ManaaBot" as replying to the claim tweet.
+To run this project, you need to run the file Application.py and then on (Twitter / X), mention the bot using its name tag "@ManaaBot" in order to reply to the claim tweet.
 
 Make sure the application Bot does not sleep or show an error.
 
