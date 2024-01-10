@@ -1,5 +1,5 @@
 # Fake news detection on Twitter social media platform
-### (The Account is deactivated now)
+### (The Account is currently deactivated)
 A graduation project about detecting Fake News on the X Platform (formally Twitter).
 
 The application consists of seven files:
