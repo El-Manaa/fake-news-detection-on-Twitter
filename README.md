@@ -1,4 +1,5 @@
 # Fake news detection on Twitter social media platform
+### (The account is currently deactivated)
 
 A graduation project about detecting Fake News on the X Platform (formally Twitter).
 
